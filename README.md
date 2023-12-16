@@ -1,0 +1,2 @@
+# crushcrushkey
+Hotkeys for CrushCrush
